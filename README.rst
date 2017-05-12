@@ -1,3 +1,8 @@
+.. note::
+   Consider using Django's build-in `CSRF_USE_SESSIONS
+   <https://docs.djangoproject.com/en/1.11/ref/settings/#std:setting-CSRF_USE_SESSIONS>`_
+   feature available from Django v1.11.
+
 What is this?
 -------------
 
